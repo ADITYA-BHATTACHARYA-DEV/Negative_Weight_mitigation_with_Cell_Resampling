@@ -1,0 +1,48 @@
+{
+  "run_config": {
+    "real": null,
+    "virtual": null,
+    "n_real": 2000,
+    "n_virtual": 1000,
+    "neg_fraction": 0.2,
+    "seed": 42,
+    "max_neighbours": 200
+  },
+  "n_events_total": 3000,
+  "resampling_wall_time_s": 0.01073769999857177,
+  "seeds_total": 292,
+  "seeds_processed": 265,
+  "seeds_skipped": 0,
+  "avg_cell_size": 2.5962264150943395,
+  "max_cell_size": 7,
+  "neg_count_before": 292,
+  "neg_count_after": 0,
+  "weight_conservation_delta": 1.8189894035458565e-12,
+  "closure": {
+    "pT": {
+      "chi2": 4.3441546428401985,
+      "chi2_ndf": 43,
+      "chi2_pval": 0.9999999999999908,
+      "ks_stat": 0.0075356804417299195,
+      "ks_pval": 0.027408495035756708
+    },
+    "y": {
+      "chi2": 3.6052828765533826,
+      "chi2_ndf": 40,
+      "chi2_pval": 0.9999999999999902,
+      "ks_stat": 0.00808614224214449,
+      "ks_pval": 0.0143191112394272
+    }
+  },
+  "efficiency": {
+    "n_total": 3000,
+    "neg_fraction_before": 0.09733333333333333,
+    "neg_fraction_after": 0.0,
+    "dilution_before": 1.2417218543046358,
+    "dilution_after": 1.0,
+    "effective_frac_before": 0.8053333333333333,
+    "effective_frac_after": 1.0,
+    "computational_gain_pct": 24.172185430463575,
+    "weight_conservation_delta": 1.8189894035458565e-12
+  }
+}
