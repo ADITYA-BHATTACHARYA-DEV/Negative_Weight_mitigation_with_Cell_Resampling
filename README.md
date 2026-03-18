@@ -10,7 +10,9 @@ The objective is to implement a Negative-Weight Mitigation Pipeline using the Ce
 
 
 
-
+---
+## Detailed WorkBook: https://docs.google.com/document/d/1aE93Qeqhyxih0MSq8jFK3EYE_5ZJlaQM2X31CZhqgOU/edit?usp=sharing
+---
 
 
 https://github.com/user-attachments/assets/57a6ee64-308a-4f84-927f-1b1d684f88d1
