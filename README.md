@@ -368,7 +368,7 @@ As N → ∞:
 | Dilution (D)              | 3.000  | 1.000 |
 | Effective Fraction        | 0.333  | 1.000 |
 
-** Computational Gain:** +200%
+## Computational Gain: +200%
 
 ---
 
